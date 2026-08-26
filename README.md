@@ -82,6 +82,16 @@ open_to:   Internships · Freelance · Collaborations
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/aasiasattar/aasiasattar/output/snake.svg" alt="snake eating my contributions" />
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | What it does | Stack |
